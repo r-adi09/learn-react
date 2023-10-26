@@ -1,3 +1,7 @@
+function GalleryProps({}){
+
+}
+
 export default function Gallery() {
   return (
     <div>
